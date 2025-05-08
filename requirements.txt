@@ -8,4 +8,3 @@ pdf2image
 Pillow
 certifi
 gunicorn
-json
