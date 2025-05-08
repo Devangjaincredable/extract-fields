@@ -1,0 +1,11 @@
+Flask
+flask-cors
+requests
+python-dotenv
+pytesseract
+pandas
+pdf2image
+Pillow
+certifi
+gunicorn
+json
